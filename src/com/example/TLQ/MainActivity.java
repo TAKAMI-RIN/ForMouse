@@ -26,11 +26,6 @@ import android.widget.Toast;
 
 
 public class MainActivity extends Activity {
-
-
-
-
-    //加速度计、陀螺仪、姿态角的数据
     public static int VAL_ACC_X = 0;
     public static int VAL_ACC_Y = 0;
     public static int VAL_ACC_Z = 0;
@@ -41,31 +36,23 @@ public class MainActivity extends Activity {
     public static float VAL_ANG_Y = 0;
     public static float VAL_ANG_Z = 0;
 
-
-
-    //返回的信息
     public static final int MESSAGE_STATIC_CHANGE = 1;
     public static final int MESSAGE_READ = 2;
     public static final int MESSAGE_WRITE = 3;
     public static final int MESSAGE_DEVICE_NAME =4;
     public static final int MESSAGE_TOAST = 5;
 
-    //获取设备名字
     public static final String DEVICE_NAME = "device_name";
     public static final String TOAST = "toast";
 
-    //请求使用蓝牙设备
     private static final int REQUEST_CONNECT_DEVICE = 1;
     private static final int REQUEST_ENABLE_BT = 2;
 
-    //与蓝牙相关的变量
     private String mConnectedDeviceName = null;
     private BluetoothAdapter mBluetoothAdapter = null;
     private static BluetoothRfcommClient  mRfcommClient = null;
 
-    private TextView mStatus;//显示蓝牙连接状态
-
-
+    private TextView mStatus;
 
 /////////////////////////////////onCreate/////////////////////////////
     @Override
@@ -86,8 +73,6 @@ public class MainActivity extends Activity {
             return;
         }
 
-
-        //请求打开蓝牙
         if(!mBluetoothAdapter.isEnabled()){                                                         //若蓝牙未打开，则请求
             Intent enableIntent = new Intent(BluetoothAdapter.ACTION_REQUEST_ENABLE);               //此时手机将跳出请求选项
             startActivityForResult(enableIntent, REQUEST_ENABLE_BT);
@@ -103,8 +88,6 @@ public class MainActivity extends Activity {
                 // TODO Auto-generated method stub
                 Intent intent = new Intent();
                 intent.setClass(MainActivity.this, MyBluetooth.class);
-
-                //返回蓝牙匹配信息
                 startActivityForResult(intent, REQUEST_CONNECT_DEVICE);
 
             }
@@ -123,8 +106,6 @@ public class MainActivity extends Activity {
         });
 
     }
-
-
 
 
     @Override
@@ -151,7 +132,6 @@ public class MainActivity extends Activity {
     public void onDestroy() {                                                                       //destroy即关闭
         if (mRfcommClient != null) mRfcommClient.stop();
         super.onDestroy();
-        //关闭客户端
     }
 
 
@@ -180,7 +160,6 @@ public class MainActivity extends Activity {
     public void onActivityResult(int requestCode, int resultCode, Intent data){
         switch(requestCode){
             case REQUEST_CONNECT_DEVICE:
-                //接收从蓝牙连接界面返回的信息
                 if(resultCode == Activity.RESULT_OK){                                               //返回为连接成功
                     String address = data.getExtras().getString(MyBluetooth.EXTRA_DEVICE_ADDRESS);
                     BluetoothDevice device = mBluetoothAdapter.getRemoteDevice(address);
@@ -246,8 +225,6 @@ public class MainActivity extends Activity {
 
     static void SendData(String message){                                                           //SendData函数，用于发送字符串 //used to be static
         if(mRfcommClient.getState()!= BluetoothRfcommClient.STATE_CONNECTED){                       //发送前进行确认
-//            Toast.makeText(this,"未连接到蓝牙设备", Toast.LENGTH_SHORT).show();                    //此处Toast需进行修改   //this is the question
-            //TSU.showMessage(getApplicationContext(),"message");
 //            Looper.prepare();
 //// 此处执行UI操作
 //            Toast.makeText(mContext, "text", Toast.LENGTH_SHORT).show();
