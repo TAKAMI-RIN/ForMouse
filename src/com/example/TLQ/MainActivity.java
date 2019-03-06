@@ -210,7 +210,6 @@ public class MainActivity extends Activity {
                     break;
 
                 case MESSAGE_DEVICE_NAME:
-                    //保存连接的设备名称
                     mConnectedDeviceName = mMessage.getData().getString(DEVICE_NAME);
                     Toast.makeText(getApplicationContext(), "Connected:"+mConnectedDeviceName, Toast.LENGTH_SHORT).show();
                     break;
@@ -221,7 +220,6 @@ public class MainActivity extends Activity {
             }
         }
     };
-
 
     static void SendData(String message){                                                           //SendData函数，用于发送字符串 //used to be static
         if(mRfcommClient.getState()!= BluetoothRfcommClient.STATE_CONNECTED){                       //发送前进行确认
