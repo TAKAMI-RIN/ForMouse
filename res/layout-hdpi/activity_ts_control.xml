@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="com.example.TLQ.TsControl"
+    android:orientation="vertical"
+    android:background="#000000">
+
+    <ImageButton
+        android:id="@+id/pit_qian1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignStart="@+id/thr_down1"
+
+        android:layout_alignParentTop="true"
+        android:layout_marginStart="1dp"
+        android:layout_marginTop="32dp"
+        android:background="#e0000000"
+        android:src="@drawable/qian" />
+
+    <ImageButton
+        android:id="@+id/suo1"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:scaleType="fitXY"
+        android:layout_alignParentBottom="true"
+        android:layout_marginLeft="98dp"
+        android:background="#e0000000"
+        android:src="@drawable/suo" />
+
+    <ImageButton
+        android:id="@+id/thr_down1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+
+        android:layout_alignParentBottom="true"
+        android:background="#e0000000"
+        android:src="@drawable/hou" />
+
+    <ImageButton
+        android:id="@+id/thr_up1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/suo1"
+        android:layout_alignParentLeft="true"
+        android:layout_marginBottom="26dp"
+        android:background="#e0000000"
+        android:src="@drawable/qian" />
+
+    <ImageButton
+        android:id="@+id/rol_you1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignTop="@+id/rol_zuo1"
+        android:layout_marginTop="2dp"
+        android:layout_marginRight="-61dp"
+        android:layout_toLeftOf="@+id/gyr1"
+        android:background="#e0000000"
+        android:src="@drawable/you" />
+
+    <ImageButton
+        android:id="@+id/rol_zuo1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+
+        android:layout_alignParentBottom="true"
+        android:layout_marginRight="35dp"
+        android:layout_toLeftOf="@+id/rol_you1"
+        android:background="#e0000000"
+        android:src="@drawable/zuo" />
+
+
+    <TextView
+        android:id="@+id/gyr1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentRight="true"
+        android:text="BLTofTLQ"
+        android:textColor="#66ccff" />
+
+    <TextView
+        android:id="@+id/textViewww"
+        android:layout_width="102dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_marginStart="-58dp"
+        android:layout_marginTop="82dp"
+        android:layout_toEndOf="@+id/rol_you1"
+        android:textColor="#66ccff" />
+
+</RelativeLayout>

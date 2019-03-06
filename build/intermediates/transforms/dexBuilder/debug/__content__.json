@@ -1,0 +1,1 @@
+[{"name":"android.local.jars:android-support-v4.jar:c055220f18a596d4024a57d592c2c6039a02df73-0","index":0,"scopes":["EXTERNAL_LIBRARIES"],"types":["DEX_ARCHIVE"],"format":"JAR","present":true},{"name":"3b5733d291efbfaa6f617d435f62d593a1f4ea2e","index":1,"scopes":["PROJECT"],"types":["DEX_ARCHIVE"],"format":"DIRECTORY","present":true}]

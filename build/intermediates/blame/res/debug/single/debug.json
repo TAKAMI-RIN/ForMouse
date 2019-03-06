@@ -1,0 +1,98 @@
+[
+    {
+        "merged": "/home/toosaka/gits/ForMouse/build/intermediates/res/merged/debug/layout-hdpi_device_name.xml.flat",
+        "source": "/home/toosaka/gits/ForMouse/res/layout-hdpi/device_name.xml"
+    },
+    {
+        "merged": "/home/toosaka/gits/ForMouse/build/intermediates/res/merged/debug/menu_my_control.xml.flat",
+        "source": "/home/toosaka/gits/ForMouse/res/menu/my_control.xml"
+    },
+    {
+        "merged": "/home/toosaka/gits/ForMouse/build/intermediates/res/merged/debug/drawable-hdpi_qian.png.flat",
+        "source": "/home/toosaka/gits/ForMouse/res/drawable-hdpi/qian.png"
+    },
+    {
+        "merged": "/home/toosaka/gits/ForMouse/build/intermediates/res/merged/debug/drawable-hdpi_back.png.flat",
+        "source": "/home/toosaka/gits/ForMouse/res/drawable-hdpi/back.png"
+    },
+    {
+        "merged": "/home/toosaka/gits/ForMouse/build/intermediates/res/merged/debug/drawable-hdpi_imgcon.png.flat",
+        "source": "/home/toosaka/gits/ForMouse/res/drawable-hdpi/imgcon.png"
+    },
+    {
+        "merged": "/home/toosaka/gits/ForMouse/build/intermediates/res/merged/debug/layout-xhdpi_activity_my_bluetooth.xml.flat",
+        "source": "/home/toosaka/gits/ForMouse/res/layout-xhdpi/activity_my_bluetooth.xml"
+    },
+    {
+        "merged": "/home/toosaka/gits/ForMouse/build/intermediates/res/merged/debug/drawable-hdpi_bluetooth.png.flat",
+        "source": "/home/toosaka/gits/ForMouse/res/drawable-hdpi/bluetooth.png"
+    },
+    {
+        "merged": "/home/toosaka/gits/ForMouse/build/intermediates/res/merged/debug/drawable-mdpi_imgcon1.jpg.flat",
+        "source": "/home/toosaka/gits/ForMouse/res/drawable-mdpi/imgcon1.jpg"
+    },
+    {
+        "merged": "/home/toosaka/gits/ForMouse/build/intermediates/res/merged/debug/layout-hdpi_activity_main.xml.flat",
+        "source": "/home/toosaka/gits/ForMouse/res/layout-hdpi/activity_main.xml"
+    },
+    {
+        "merged": "/home/toosaka/gits/ForMouse/build/intermediates/res/merged/debug/drawable-hdpi_zuo.png.flat",
+        "source": "/home/toosaka/gits/ForMouse/res/drawable-hdpi/zuo.png"
+    },
+    {
+        "merged": "/home/toosaka/gits/ForMouse/build/intermediates/res/merged/debug/menu_bluetooth_rfcomm_client.xml.flat",
+        "source": "/home/toosaka/gits/ForMouse/res/menu/bluetooth_rfcomm_client.xml"
+    },
+    {
+        "merged": "/home/toosaka/gits/ForMouse/build/intermediates/res/merged/debug/drawable-hdpi_tohsaka.jpg.flat",
+        "source": "/home/toosaka/gits/ForMouse/res/drawable-hdpi/tohsaka.jpg"
+    },
+    {
+        "merged": "/home/toosaka/gits/ForMouse/build/intermediates/res/merged/debug/menu_main.xml.flat",
+        "source": "/home/toosaka/gits/ForMouse/res/menu/main.xml"
+    },
+    {
+        "merged": "/home/toosaka/gits/ForMouse/build/intermediates/res/merged/debug/drawable-hdpi_suo.png.flat",
+        "source": "/home/toosaka/gits/ForMouse/res/drawable-hdpi/suo.png"
+    },
+    {
+        "merged": "/home/toosaka/gits/ForMouse/build/intermediates/res/merged/debug/layout-xhdpi_activity_main.xml.flat",
+        "source": "/home/toosaka/gits/ForMouse/res/layout-xhdpi/activity_main.xml"
+    },
+    {
+        "merged": "/home/toosaka/gits/ForMouse/build/intermediates/res/merged/debug/layout-xhdpi_device_name.xml.flat",
+        "source": "/home/toosaka/gits/ForMouse/res/layout-xhdpi/device_name.xml"
+    },
+    {
+        "merged": "/home/toosaka/gits/ForMouse/build/intermediates/res/merged/debug/drawable-hdpi_you.png.flat",
+        "source": "/home/toosaka/gits/ForMouse/res/drawable-hdpi/you.png"
+    },
+    {
+        "merged": "/home/toosaka/gits/ForMouse/build/intermediates/res/merged/debug/drawable-hdpi_imgcon1.png.flat",
+        "source": "/home/toosaka/gits/ForMouse/res/drawable-hdpi/imgcon1.png"
+    },
+    {
+        "merged": "/home/toosaka/gits/ForMouse/build/intermediates/res/merged/debug/layout-hdpi_activity_my_bluetooth.xml.flat",
+        "source": "/home/toosaka/gits/ForMouse/res/layout-hdpi/activity_my_bluetooth.xml"
+    },
+    {
+        "merged": "/home/toosaka/gits/ForMouse/build/intermediates/res/merged/debug/menu_my_bluetooth.xml.flat",
+        "source": "/home/toosaka/gits/ForMouse/res/menu/my_bluetooth.xml"
+    },
+    {
+        "merged": "/home/toosaka/gits/ForMouse/build/intermediates/res/merged/debug/layout-xhdpi_activity_ts_control.xml.flat",
+        "source": "/home/toosaka/gits/ForMouse/res/layout-xhdpi/activity_ts_control.xml"
+    },
+    {
+        "merged": "/home/toosaka/gits/ForMouse/build/intermediates/res/merged/debug/layout-hdpi_activity_ts_control.xml.flat",
+        "source": "/home/toosaka/gits/ForMouse/res/layout-hdpi/activity_ts_control.xml"
+    },
+    {
+        "merged": "/home/toosaka/gits/ForMouse/build/intermediates/res/merged/debug/drawable-hdpi_cotrol.png.flat",
+        "source": "/home/toosaka/gits/ForMouse/res/drawable-hdpi/cotrol.png"
+    },
+    {
+        "merged": "/home/toosaka/gits/ForMouse/build/intermediates/res/merged/debug/drawable-hdpi_hou.png.flat",
+        "source": "/home/toosaka/gits/ForMouse/res/drawable-hdpi/hou.png"
+    }
+]
