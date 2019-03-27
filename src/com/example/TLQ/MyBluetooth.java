@@ -26,13 +26,13 @@ public class MyBluetooth extends Activity {
 
 	private BluetoothAdapter mBtAdapter;
 	private ArrayAdapter<String>mPairedDevicesArrayAdapter;
-	private ArrayAdapter<String> mNewDevicesArrayAdapter;                       //使用三个adapter 显示蓝牙连接dialog
+	private ArrayAdapter<String> mNewDevicesArrayAdapter;                       					//使用三个adapter 显示蓝牙连接dialog
 
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
 
-		requestWindowFeature(Window.FEATURE_INDETERMINATE_PROGRESS);//开启窗口并添加不确定进度条
+		requestWindowFeature(Window.FEATURE_INDETERMINATE_PROGRESS);
 		setContentView(R.layout.activity_my_bluetooth);
 
 
