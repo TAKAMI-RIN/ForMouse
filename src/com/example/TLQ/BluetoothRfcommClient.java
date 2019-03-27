@@ -229,7 +229,7 @@ public class BluetoothRfcommClient {
 			mOutputStream = output;
 		}
 
-		//接收来自飞控的数据
+		//接收来自下位机的数据
 		public void run(){
 			byte[] buffer = new byte[1024];
 			int bytes;
@@ -241,8 +241,7 @@ public class BluetoothRfcommClient {
 			}
 		}
 
-
-		//app发送数据到飞控
+		//app发送数据到下位机
 		public void write(byte[] buffer){
 			try{
 				mOutputStream.write(buffer);
