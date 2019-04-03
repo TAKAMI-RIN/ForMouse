@@ -120,9 +120,7 @@ public class TsControl extends Activity {
 			// TODO Auto-generated method stub
 
 			if(LOCK == 1){
-
-				//pit按钮
-				if(v.getId() == R.id.pit_qian1){
+				if(v.getId() == R.id.pit_qian1){                                                    //
 					if(event.getAction() == MotionEvent.ACTION_DOWN)
 					{VAL_THR = 2500;	TSVal = 120;}
 					if(event.getAction() == MotionEvent.ACTION_CANCEL)
@@ -143,7 +141,6 @@ public class TsControl extends Activity {
 				}
 
 
-				//rol按钮
 				if(v.getId() == R.id.rol_zuo1){
 					if(event.getAction() == MotionEvent.ACTION_DOWN)
 						VAL_ROL = 1200;
@@ -164,7 +161,6 @@ public class TsControl extends Activity {
 				}
 
 
-				//油门
 				if(v.getId() == R.id.thr_up1){
 						if(event.getAction() == MotionEvent.ACTION_DOWN)
 						{VAL_THR = 2000;	TSVal = 80;}

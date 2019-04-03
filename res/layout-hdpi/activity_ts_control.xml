@@ -79,10 +79,10 @@
         android:id="@+id/gyr1"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_alignParentTop="true"
         android:layout_alignParentRight="true"
+        android:layout_alignParentTop="true"
         android:text="BLTofTLQ"
-        android:textColor="#66ccff" />
+        android:textColor="#ee1111" />
 
     <TextView
         android:id="@+id/textViewww"

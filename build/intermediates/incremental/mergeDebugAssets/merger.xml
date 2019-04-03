@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="utf-8"?>
-<merger version="3"><dataSet config="main"><source path="J:\Project_Mouse\BLTofTLQ4Mouse\BLTofTLQ4Mouse-V1.3.0127.1MOE\ForMouse\assets"/><source path="J:\Project_Mouse\BLTofTLQ4Mouse\BLTofTLQ4Mouse-V1.3.0127.1MOE\ForMouse\build\generated\assets\shaders\debug"/></dataSet><dataSet config="debug"><source path="J:\Project_Mouse\BLTofTLQ4Mouse\BLTofTLQ4Mouse-V1.3.0127.1MOE\ForMouse\build-types\debug\assets"/></dataSet></merger>
+<merger version="3"><dataSet config="main"><source path="/home/toosaka/gits/ForMouse/assets"/><source path="/home/toosaka/gits/ForMouse/build/generated/assets/shaders/debug"/></dataSet><dataSet config="debug"><source path="/home/toosaka/gits/ForMouse/build-types/debug/assets"/></dataSet></merger>

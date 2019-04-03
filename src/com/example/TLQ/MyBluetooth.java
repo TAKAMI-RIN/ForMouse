@@ -71,7 +71,7 @@ public class MyBluetooth extends Activity {
 		//本地蓝牙适配器
 		mBtAdapter = BluetoothAdapter.getDefaultAdapter();
 
-		//显示已配对设备
+																									//显示已配对设备
 		Set<BluetoothDevice>paireDevices = mBtAdapter.getBondedDevices();
 		if(paireDevices.size() >0 ){
 			findViewById(R.id.title_paired_devices).setVisibility(View.VISIBLE);

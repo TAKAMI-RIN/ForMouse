@@ -1,7 +1,11 @@
 #Internal package file, do not edit.
-#Sun Jan 27 21:02:42 CST 2019
+#Wed Apr 03 14:19:13 CST 2019
+1.base=/home/toosaka/gits/ForMouse/build/intermediates/transforms/dexMerger/debug/11
 0.baseType=DIRECTORY
-0.base=J\:\\Project_Mouse\\BLTofTLQ4Mouse\\BLTofTLQ4Mouse-V1.3.0127.1MOE\\ForMouse\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+1.baseType=DIRECTORY
+count=2
+1.set=DEX
 0.path=classes.dex
 0.set=DEX
-count=1
+0.base=/home/toosaka/gits/ForMouse/build/intermediates/transforms/dexMerger/debug/12
+1.path=classes.dex

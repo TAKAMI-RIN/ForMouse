@@ -1,4 +1,7 @@
-#Sun Jan 27 21:08:09 CST 2019
-base.0=J\:\\Project_Mouse\\BLTofTLQ4Mouse\\BLTofTLQ4Mouse-V1.3.0127.1MOE\\ForMouse\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+#Wed Apr 03 14:19:13 CST 2019
+base.0=/home/toosaka/gits/ForMouse/build/intermediates/transforms/dexMerger/debug/12
+path.1=classes.dex
+renamed.1=classes2.dex
 path.0=classes.dex
 renamed.0=classes.dex
+base.1=/home/toosaka/gits/ForMouse/build/intermediates/transforms/dexMerger/debug/11

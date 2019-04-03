@@ -59,9 +59,9 @@ public final class R {
   public static final class string {
     public static final int KongZhi=0x7f060000;
     public static final int LanYa=0x7f060001;
-    public static final int ShaoMiao=0x7f060002;
-    public static final int WeiPeiDui=0x7f060003;
-    public static final int YiPeiDui=0x7f060004;
+    public static final int NotPaired=0x7f060002;
+    public static final int Paired=0x7f060003;
+    public static final int Scan=0x7f060004;
     public static final int action_settings=0x7f060005;
     public static final int app_name=0x7f060006;
     public static final int title_activity_my_bluetooth=0x7f060007;

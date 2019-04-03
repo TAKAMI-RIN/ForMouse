@@ -7,7 +7,7 @@
     <TextView android:id="@+id/title_paired_devices"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="@string/YiPeiDui"
+        android:text="@string/Paired"
         android:visibility="gone"
         android:background="#006"
         android:textColor="#fff"
@@ -22,7 +22,7 @@
     <TextView android:id="@+id/title_new_devices"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="@string/WeiPeiDui"
+        android:text="@string/NotPaired"
         android:visibility="gone"
         android:background="#006"
         android:textColor="#fff"
@@ -37,7 +37,7 @@
     <Button android:id="@+id/Scan"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="@string/ShaoMiao"
+        android:text="@string/Scan"
     />
 
 </LinearLayout>
