@@ -136,7 +136,7 @@ public class MainActivity extends Activity {
 
 
 ////////////////////////////////////////退出前提示///////////////////////////////////////////////////
-    @Override
+    @Override                                                                                       //返回键UI
     public void onBackPressed(){
         Builder mBuilder = new AlertDialog.Builder(this);
         mBuilder.setTitle("TOOSAKA")
@@ -151,7 +151,7 @@ public class MainActivity extends Activity {
             }
         });
 
-        mBuilder.setNegativeButton("shit", null).show();
+        mBuilder.setNegativeButton("no", null).show();
     }
 ////////////////////////////////////////////////////////////////////////////////////////////////////
 
@@ -204,7 +204,7 @@ public class MainActivity extends Activity {
                     }
                     break;
 
-                case MESSAGE_READ:                                                                  //？/？/？/？
+                case MESSAGE_READ:                                                                  //
                     byte[] mRead = (byte[]) mMessage.obj;
                     DataAnl(mRead , mMessage.arg1);
                     break;
@@ -273,7 +273,6 @@ public class MainActivity extends Activity {
     static int ReadLength = 0;//读取的数据长度
     static int ReadState = 0;//读取数据的状态
     static int ReadCount = 0;//计数
-
 
 ////////////////////////////////////////////////////////////////////////////////////////////////////
     static void DataAnl(byte[] data, int length){                                                   //数据接收处理函数  //work point 4 me
