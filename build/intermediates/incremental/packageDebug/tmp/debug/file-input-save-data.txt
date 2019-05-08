@@ -1,11 +1,7 @@
 #Internal package file, do not edit.
-#Wed Apr 03 14:19:13 CST 2019
-1.base=/home/toosaka/gits/ForMouse/build/intermediates/transforms/dexMerger/debug/11
+#Wed May 08 22:46:27 CST 2019
 0.baseType=DIRECTORY
-1.baseType=DIRECTORY
-count=2
-1.set=DEX
+0.base=H\:\\android\\gitget\\ForMouse\\build\\intermediates\\transforms\\dexMerger\\debug\\0
 0.path=classes.dex
 0.set=DEX
-0.base=/home/toosaka/gits/ForMouse/build/intermediates/transforms/dexMerger/debug/12
-1.path=classes.dex
+count=1

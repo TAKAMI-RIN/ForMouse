@@ -1,7 +1,4 @@
-#Wed Apr 03 14:19:13 CST 2019
-base.0=/home/toosaka/gits/ForMouse/build/intermediates/transforms/dexMerger/debug/12
-path.1=classes.dex
-renamed.1=classes2.dex
+#Wed May 08 22:46:27 CST 2019
+base.0=H\:\\android\\gitget\\ForMouse\\build\\intermediates\\transforms\\dexMerger\\debug\\0
 path.0=classes.dex
 renamed.0=classes.dex
-base.1=/home/toosaka/gits/ForMouse/build/intermediates/transforms/dexMerger/debug/11

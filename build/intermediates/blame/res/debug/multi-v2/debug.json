@@ -1,56 +1,68 @@
 {
     "logs": [
         {
-            "outputFile": "/home/toosaka/gits/ForMouse/build/intermediates/res/merged/debug/values-w820dp-v13_values-w820dp-v13.arsc.flat",
+            "outputFile": "H:\\android\\gitget\\ForMouse\\build\\intermediates\\res\\merged\\debug\\values_values.arsc.flat",
             "map": [
                 {
-                    "source": "/home/toosaka/gits/ForMouse/res/values-w820dp/dimens.xml",
+                    "source": "H:\\android\\gitget\\ForMouse\\res\\values\\styles.xml",
                     "from": {
-                        "startLines": "7",
-                        "startColumns": "4",
-                        "startOffsets": "310",
-                        "endColumns": "57",
-                        "endOffsets": "363"
+                        "startLines": "6,15",
+                        "startColumns": "4,4",
+                        "startOffsets": "191,522",
+                        "endLines": "12,17",
+                        "endColumns": "12,12",
+                        "endOffsets": "481,679"
                     },
                     "to": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "57",
-                        "endOffsets": "108"
+                        "startLines": "13,20",
+                        "startColumns": "4,4",
+                        "startOffsets": "612,903",
+                        "endLines": "19,22",
+                        "endColumns": "12,12",
+                        "endOffsets": "898,1058"
+                    }
+                },
+                {
+                    "source": "H:\\android\\gitget\\ForMouse\\res\\values\\dimens.xml",
+                    "from": {
+                        "startLines": "3,4",
+                        "startColumns": "4,4",
+                        "startOffsets": "92,151",
+                        "endColumns": "57,55",
+                        "endOffsets": "145,202"
+                    },
+                    "to": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,113",
+                        "endColumns": "57,55",
+                        "endOffsets": "108,164"
+                    }
+                },
+                {
+                    "source": "H:\\android\\gitget\\ForMouse\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "6,5,9,8,7,4,3,12,10",
+                        "startColumns": "4,4,4,4,1,4,4,4,4",
+                        "startOffsets": "207,164,340,290,249,110,59,459,393",
+                        "endColumns": "43,41,51,48,36,52,49,65,54",
+                        "endOffsets": "246,201,387,334,284,158,104,520,443"
+                    },
+                    "to": {
+                        "startLines": "4,5,6,7,8,9,10,11,12",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "169,213,255,307,356,396,449,499,565",
+                        "endColumns": "43,41,51,48,39,52,49,65,46",
+                        "endOffsets": "208,250,302,351,391,444,494,560,607"
                     }
                 }
             ]
         },
         {
-            "outputFile": "/home/toosaka/gits/ForMouse/build/intermediates/res/merged/debug/values-v11_values-v11.arsc.flat",
+            "outputFile": "H:\\android\\gitget\\ForMouse\\build\\intermediates\\res\\merged\\debug\\values-v14_values-v14.arsc.flat",
             "map": [
                 {
-                    "source": "/home/toosaka/gits/ForMouse/res/values-v11/styles.xml",
-                    "from": {
-                        "startLines": "6",
-                        "startColumns": "4",
-                        "startOffsets": "182",
-                        "endLines": "8",
-                        "endColumns": "12",
-                        "endOffsets": "316"
-                    },
-                    "to": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endLines": "4",
-                        "endColumns": "12",
-                        "endOffsets": "187"
-                    }
-                }
-            ]
-        },
-        {
-            "outputFile": "/home/toosaka/gits/ForMouse/build/intermediates/res/merged/debug/values-v14_values-v14.arsc.flat",
-            "map": [
-                {
-                    "source": "/home/toosaka/gits/ForMouse/res/values-v14/styles.xml",
+                    "source": "H:\\android\\gitget\\ForMouse\\res\\values-v14\\styles.xml",
                     "from": {
                         "startLines": "7",
                         "startColumns": "4",
@@ -71,54 +83,47 @@
             ]
         },
         {
-            "outputFile": "/home/toosaka/gits/ForMouse/build/intermediates/res/merged/debug/values_values.arsc.flat",
+            "outputFile": "H:\\android\\gitget\\ForMouse\\build\\intermediates\\res\\merged\\debug\\values-w820dp-v13_values-w820dp-v13.arsc.flat",
             "map": [
                 {
-                    "source": "/home/toosaka/gits/ForMouse/res/values/strings.xml",
+                    "source": "H:\\android\\gitget\\ForMouse\\res\\values-w820dp\\dimens.xml",
                     "from": {
-                        "startLines": "-1,-1,9,8,7,-1,-1,-1,-1",
-                        "startColumns": "-1,-1,4,4,1,-1,-1,-1,-1",
-                        "startOffsets": "-1,-1,340,290,249,-1,-1,-1,-1",
-                        "endColumns": "-1,-1,51,48,36,-1,-1,-1,-1",
-                        "endOffsets": "-1,-1,387,334,284,-1,-1,-1,-1"
+                        "startLines": "7",
+                        "startColumns": "4",
+                        "startOffsets": "310",
+                        "endColumns": "57",
+                        "endOffsets": "363"
                     },
                     "to": {
-                        "startLines": "4,5,6,7,8,9,10,11,12",
-                        "startColumns": "4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "169,213,255,307,356,396,449,499,565",
-                        "endColumns": "43,41,51,48,39,52,49,65,46",
-                        "endOffsets": "208,250,302,351,391,444,494,560,607"
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "57",
+                        "endOffsets": "108"
                     }
-                },
+                }
+            ]
+        },
+        {
+            "outputFile": "H:\\android\\gitget\\ForMouse\\build\\intermediates\\res\\merged\\debug\\values-v11_values-v11.arsc.flat",
+            "map": [
                 {
-                    "source": "/home/toosaka/gits/ForMouse/res/values/styles.xml",
+                    "source": "H:\\android\\gitget\\ForMouse\\res\\values-v11\\styles.xml",
                     "from": {
-                        "startLines": "-1,-1",
-                        "startColumns": "-1,-1",
-                        "startOffsets": "-1,-1"
+                        "startLines": "6",
+                        "startColumns": "4",
+                        "startOffsets": "182",
+                        "endLines": "8",
+                        "endColumns": "12",
+                        "endOffsets": "316"
                     },
                     "to": {
-                        "startLines": "13,16",
-                        "startColumns": "4,4",
-                        "startOffsets": "612,695",
-                        "endLines": "15,18",
-                        "endColumns": "12,12",
-                        "endOffsets": "690,762"
-                    }
-                },
-                {
-                    "source": "/home/toosaka/gits/ForMouse/res/values/dimens.xml",
-                    "from": {
-                        "startLines": "-1,-1",
-                        "startColumns": "-1,-1",
-                        "startOffsets": "-1,-1"
-                    },
-                    "to": {
-                        "startLines": "2,3",
-                        "startColumns": "4,4",
-                        "startOffsets": "55,113",
-                        "endColumns": "57,55",
-                        "endOffsets": "108,164"
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "4",
+                        "endColumns": "12",
+                        "endOffsets": "187"
                     }
                 }
             ]

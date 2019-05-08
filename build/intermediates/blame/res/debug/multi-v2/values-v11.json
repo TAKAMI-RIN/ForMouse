@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/home/toosaka/gits/ForMouse/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v11/values-v11.xml",
+            "outputFile": "H:\\android\\gitget\\ForMouse\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v11\\values-v11.xml",
             "map": [
                 {
-                    "source": "/home/toosaka/gits/ForMouse/res/values-v11/styles.xml",
+                    "source": "H:\\android\\gitget\\ForMouse\\res\\values-v11\\styles.xml",
                     "from": {
                         "startLines": "6",
                         "startColumns": "4",

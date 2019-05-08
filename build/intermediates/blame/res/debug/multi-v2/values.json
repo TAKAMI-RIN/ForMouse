@@ -1,47 +1,35 @@
 {
     "logs": [
         {
-            "outputFile": "/home/toosaka/gits/ForMouse/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+            "outputFile": "H:\\android\\gitget\\ForMouse\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
             "map": [
                 {
-                    "source": "/home/toosaka/gits/ForMouse/res/values/strings.xml",
+                    "source": "H:\\android\\gitget\\ForMouse\\res\\values\\styles.xml",
                     "from": {
-                        "startLines": "-1,-1,9,8,7,-1,-1,-1,-1",
-                        "startColumns": "-1,-1,4,4,1,-1,-1,-1,-1",
-                        "startOffsets": "-1,-1,340,290,249,-1,-1,-1,-1",
-                        "endColumns": "-1,-1,51,48,36,-1,-1,-1,-1",
-                        "endOffsets": "-1,-1,387,334,284,-1,-1,-1,-1"
-                    },
-                    "to": {
-                        "startLines": "4,5,6,7,8,9,10,11,12",
-                        "startColumns": "4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "169,213,255,307,356,396,449,499,565",
-                        "endColumns": "43,41,51,48,39,52,49,65,46",
-                        "endOffsets": "208,250,302,351,391,444,494,560,607"
-                    }
-                },
-                {
-                    "source": "/home/toosaka/gits/ForMouse/res/values/styles.xml",
-                    "from": {
-                        "startLines": "-1,-1",
-                        "startColumns": "-1,-1",
-                        "startOffsets": "-1,-1"
-                    },
-                    "to": {
-                        "startLines": "13,16",
+                        "startLines": "6,15",
                         "startColumns": "4,4",
-                        "startOffsets": "612,695",
-                        "endLines": "15,18",
+                        "startOffsets": "191,522",
+                        "endLines": "12,17",
                         "endColumns": "12,12",
-                        "endOffsets": "690,762"
+                        "endOffsets": "481,679"
+                    },
+                    "to": {
+                        "startLines": "13,20",
+                        "startColumns": "4,4",
+                        "startOffsets": "612,903",
+                        "endLines": "19,22",
+                        "endColumns": "12,12",
+                        "endOffsets": "898,1058"
                     }
                 },
                 {
-                    "source": "/home/toosaka/gits/ForMouse/res/values/dimens.xml",
+                    "source": "H:\\android\\gitget\\ForMouse\\res\\values\\dimens.xml",
                     "from": {
-                        "startLines": "-1,-1",
-                        "startColumns": "-1,-1",
-                        "startOffsets": "-1,-1"
+                        "startLines": "3,4",
+                        "startColumns": "4,4",
+                        "startOffsets": "92,151",
+                        "endColumns": "57,55",
+                        "endOffsets": "145,202"
                     },
                     "to": {
                         "startLines": "2,3",
@@ -49,6 +37,23 @@
                         "startOffsets": "55,113",
                         "endColumns": "57,55",
                         "endOffsets": "108,164"
+                    }
+                },
+                {
+                    "source": "H:\\android\\gitget\\ForMouse\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "6,5,9,8,7,4,3,12,10",
+                        "startColumns": "4,4,4,4,1,4,4,4,4",
+                        "startOffsets": "207,164,340,290,249,110,59,459,393",
+                        "endColumns": "43,41,51,48,36,52,49,65,54",
+                        "endOffsets": "246,201,387,334,284,158,104,520,443"
+                    },
+                    "to": {
+                        "startLines": "4,5,6,7,8,9,10,11,12",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "169,213,255,307,356,396,449,499,565",
+                        "endColumns": "43,41,51,48,39,52,49,65,46",
+                        "endOffsets": "208,250,302,351,391,444,494,560,607"
                     }
                 }
             ]

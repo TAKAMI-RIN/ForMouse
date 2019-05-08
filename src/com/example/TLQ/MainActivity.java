@@ -63,7 +63,8 @@ public class MainActivity extends Activity {
         this.getWindow().setNavigationBarColor(0x9966CCFF);
         this.getWindow().setFlags(WindowManager.LayoutParams.FLAG_FULLSCREEN,                       //屏蔽通知栏
                 WindowManager.LayoutParams.FLAG_FULLSCREEN);
-
+        this.getWindow().setFlags(WindowManager.LayoutParams.FLAG_KEEP_SCREEN_ON,
+                WindowManager.LayoutParams.FLAG_KEEP_SCREEN_ON);
         mStatus = (TextView) findViewById(R.id.message);                                            //蓝牙状态显示用textview
         mBluetoothAdapter = BluetoothAdapter.getDefaultAdapter();                                   //bluetooth adapter
 

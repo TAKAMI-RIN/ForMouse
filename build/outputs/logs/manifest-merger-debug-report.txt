@@ -1,89 +1,89 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /home/toosaka/gits/ForMouse/AndroidManifest.xml:2:1-42:12
-INJECTED from /home/toosaka/gits/ForMouse/AndroidManifest.xml:2:1-42:12
-INJECTED from /home/toosaka/gits/ForMouse/AndroidManifest.xml:2:1-42:12
-INJECTED from /home/toosaka/gits/ForMouse/AndroidManifest.xml:2:1-42:12
-INJECTED from /home/toosaka/gits/ForMouse/AndroidManifest.xml:2:1-42:12
-INJECTED from /home/toosaka/gits/ForMouse/AndroidManifest.xml:2:1-42:12
-INJECTED from /home/toosaka/gits/ForMouse/AndroidManifest.xml:2:1-42:12
+ADDED from H:\android\gitget\ForMouse\AndroidManifest.xml:2:1-42:12
+INJECTED from H:\android\gitget\ForMouse\AndroidManifest.xml:2:1-42:12
+INJECTED from H:\android\gitget\ForMouse\AndroidManifest.xml:2:1-42:12
+INJECTED from H:\android\gitget\ForMouse\AndroidManifest.xml:2:1-42:12
+INJECTED from H:\android\gitget\ForMouse\AndroidManifest.xml:2:1-42:12
+INJECTED from H:\android\gitget\ForMouse\AndroidManifest.xml:2:1-42:12
+INJECTED from H:\android\gitget\ForMouse\AndroidManifest.xml:2:1-42:12
 	package
-		ADDED from /home/toosaka/gits/ForMouse/AndroidManifest.xml:3:5-30
-		INJECTED from /home/toosaka/gits/ForMouse/AndroidManifest.xml
-		INJECTED from /home/toosaka/gits/ForMouse/AndroidManifest.xml
+		ADDED from H:\android\gitget\ForMouse\AndroidManifest.xml:3:5-30
+		INJECTED from H:\android\gitget\ForMouse\AndroidManifest.xml
+		INJECTED from H:\android\gitget\ForMouse\AndroidManifest.xml
 	android:versionName
-		ADDED from /home/toosaka/gits/ForMouse/AndroidManifest.xml:5:5-30
-		INJECTED from /home/toosaka/gits/ForMouse/AndroidManifest.xml
-		INJECTED from /home/toosaka/gits/ForMouse/AndroidManifest.xml
+		ADDED from H:\android\gitget\ForMouse\AndroidManifest.xml:5:5-30
+		INJECTED from H:\android\gitget\ForMouse\AndroidManifest.xml
+		INJECTED from H:\android\gitget\ForMouse\AndroidManifest.xml
 	xmlns:android
-		ADDED from /home/toosaka/gits/ForMouse/AndroidManifest.xml:2:11-69
+		ADDED from H:\android\gitget\ForMouse\AndroidManifest.xml:2:11-69
 	android:versionCode
-		ADDED from /home/toosaka/gits/ForMouse/AndroidManifest.xml:4:5-28
-		INJECTED from /home/toosaka/gits/ForMouse/AndroidManifest.xml
-		INJECTED from /home/toosaka/gits/ForMouse/AndroidManifest.xml
+		ADDED from H:\android\gitget\ForMouse\AndroidManifest.xml:4:5-28
+		INJECTED from H:\android\gitget\ForMouse\AndroidManifest.xml
+		INJECTED from H:\android\gitget\ForMouse\AndroidManifest.xml
 uses-sdk
-ADDED from /home/toosaka/gits/ForMouse/AndroidManifest.xml:7:5-9:41
-INJECTED from /home/toosaka/gits/ForMouse/AndroidManifest.xml:7:5-9:41
-INJECTED from /home/toosaka/gits/ForMouse/AndroidManifest.xml:7:5-9:41
-INJECTED from /home/toosaka/gits/ForMouse/AndroidManifest.xml:7:5-9:41
-INJECTED from /home/toosaka/gits/ForMouse/AndroidManifest.xml:7:5-9:41
+ADDED from H:\android\gitget\ForMouse\AndroidManifest.xml:7:5-9:41
+INJECTED from H:\android\gitget\ForMouse\AndroidManifest.xml:7:5-9:41
+INJECTED from H:\android\gitget\ForMouse\AndroidManifest.xml:7:5-9:41
+INJECTED from H:\android\gitget\ForMouse\AndroidManifest.xml:7:5-9:41
+INJECTED from H:\android\gitget\ForMouse\AndroidManifest.xml:7:5-9:41
 	android:targetSdkVersion
-		ADDED from /home/toosaka/gits/ForMouse/AndroidManifest.xml:9:9-38
-		INJECTED from /home/toosaka/gits/ForMouse/AndroidManifest.xml
-		INJECTED from /home/toosaka/gits/ForMouse/AndroidManifest.xml
+		ADDED from H:\android\gitget\ForMouse\AndroidManifest.xml:9:9-38
+		INJECTED from H:\android\gitget\ForMouse\AndroidManifest.xml
+		INJECTED from H:\android\gitget\ForMouse\AndroidManifest.xml
 	android:minSdkVersion
-		ADDED from /home/toosaka/gits/ForMouse/AndroidManifest.xml:8:9-35
-		INJECTED from /home/toosaka/gits/ForMouse/AndroidManifest.xml
-		INJECTED from /home/toosaka/gits/ForMouse/AndroidManifest.xml
+		ADDED from H:\android\gitget\ForMouse\AndroidManifest.xml:8:9-35
+		INJECTED from H:\android\gitget\ForMouse\AndroidManifest.xml
+		INJECTED from H:\android\gitget\ForMouse\AndroidManifest.xml
 uses-permission#android.permission.BLUETOOTH
-ADDED from /home/toosaka/gits/ForMouse/AndroidManifest.xml:11:5-68
+ADDED from H:\android\gitget\ForMouse\AndroidManifest.xml:11:5-68
 	android:name
-		ADDED from /home/toosaka/gits/ForMouse/AndroidManifest.xml:11:22-65
+		ADDED from H:\android\gitget\ForMouse\AndroidManifest.xml:11:22-65
 uses-permission#android.permission.BLUETOOTH_ADMIN
-ADDED from /home/toosaka/gits/ForMouse/AndroidManifest.xml:12:5-74
+ADDED from H:\android\gitget\ForMouse\AndroidManifest.xml:12:5-74
 	android:name
-		ADDED from /home/toosaka/gits/ForMouse/AndroidManifest.xml:12:22-71
+		ADDED from H:\android\gitget\ForMouse\AndroidManifest.xml:12:22-71
 application
-ADDED from /home/toosaka/gits/ForMouse/AndroidManifest.xml:14:5-40:19
+ADDED from H:\android\gitget\ForMouse\AndroidManifest.xml:14:5-40:19
 	android:screenOrientation
-		ADDED from /home/toosaka/gits/ForMouse/AndroidManifest.xml:18:9-46
+		ADDED from H:\android\gitget\ForMouse\AndroidManifest.xml:18:9-46
 	android:label
-		ADDED from /home/toosaka/gits/ForMouse/AndroidManifest.xml:17:9-41
+		ADDED from H:\android\gitget\ForMouse\AndroidManifest.xml:17:9-41
 	android:icon
-		ADDED from /home/toosaka/gits/ForMouse/AndroidManifest.xml:16:9-41
+		ADDED from H:\android\gitget\ForMouse\AndroidManifest.xml:16:9-41
 	android:allowBackup
-		ADDED from /home/toosaka/gits/ForMouse/AndroidManifest.xml:15:9-35
+		ADDED from H:\android\gitget\ForMouse\AndroidManifest.xml:15:9-35
 	android:theme
-		ADDED from /home/toosaka/gits/ForMouse/AndroidManifest.xml:19:9-40
+		ADDED from H:\android\gitget\ForMouse\AndroidManifest.xml:19:9-40
 activity#com.example.TLQ.MainActivity
-ADDED from /home/toosaka/gits/ForMouse/AndroidManifest.xml:20:9-29:20
+ADDED from H:\android\gitget\ForMouse\AndroidManifest.xml:20:9-29:20
 	android:label
-		ADDED from /home/toosaka/gits/ForMouse/AndroidManifest.xml:22:13-45
+		ADDED from H:\android\gitget\ForMouse\AndroidManifest.xml:22:13-45
 	android:theme
-		ADDED from /home/toosaka/gits/ForMouse/AndroidManifest.xml:23:13-72
+		ADDED from H:\android\gitget\ForMouse\AndroidManifest.xml:23:13-72
 	android:name
-		ADDED from /home/toosaka/gits/ForMouse/AndroidManifest.xml:21:13-56
+		ADDED from H:\android\gitget\ForMouse\AndroidManifest.xml:21:13-56
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from /home/toosaka/gits/ForMouse/AndroidManifest.xml:24:13-28:29
+ADDED from H:\android\gitget\ForMouse\AndroidManifest.xml:24:13-28:29
 action#android.intent.action.MAIN
-ADDED from /home/toosaka/gits/ForMouse/AndroidManifest.xml:25:17-69
+ADDED from H:\android\gitget\ForMouse\AndroidManifest.xml:25:17-69
 	android:name
-		ADDED from /home/toosaka/gits/ForMouse/AndroidManifest.xml:25:25-66
+		ADDED from H:\android\gitget\ForMouse\AndroidManifest.xml:25:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /home/toosaka/gits/ForMouse/AndroidManifest.xml:27:17-77
+ADDED from H:\android\gitget\ForMouse\AndroidManifest.xml:27:17-77
 	android:name
-		ADDED from /home/toosaka/gits/ForMouse/AndroidManifest.xml:27:27-74
+		ADDED from H:\android\gitget\ForMouse\AndroidManifest.xml:27:27-74
 activity#com.example.TLQ.MyBluetooth
-ADDED from /home/toosaka/gits/ForMouse/AndroidManifest.xml:30:9-34:20
+ADDED from H:\android\gitget\ForMouse\AndroidManifest.xml:30:9-34:20
 	android:label
-		ADDED from /home/toosaka/gits/ForMouse/AndroidManifest.xml:32:13-64
+		ADDED from H:\android\gitget\ForMouse\AndroidManifest.xml:32:13-64
 	android:theme
-		ADDED from /home/toosaka/gits/ForMouse/AndroidManifest.xml:33:13-56
+		ADDED from H:\android\gitget\ForMouse\AndroidManifest.xml:33:13-56
 	android:name
-		ADDED from /home/toosaka/gits/ForMouse/AndroidManifest.xml:31:13-55
+		ADDED from H:\android\gitget\ForMouse\AndroidManifest.xml:31:13-55
 activity#com.example.TLQ.TsControl
-ADDED from /home/toosaka/gits/ForMouse/AndroidManifest.xml:35:9-38:20
+ADDED from H:\android\gitget\ForMouse\AndroidManifest.xml:35:9-38:20
 	android:label
-		ADDED from /home/toosaka/gits/ForMouse/AndroidManifest.xml:37:13-35
+		ADDED from H:\android\gitget\ForMouse\AndroidManifest.xml:37:13-35
 	android:name
-		ADDED from /home/toosaka/gits/ForMouse/AndroidManifest.xml:36:13-53
+		ADDED from H:\android\gitget\ForMouse\AndroidManifest.xml:36:13-53

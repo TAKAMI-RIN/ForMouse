@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="utf-8"?>
-<merger version="3"><dataSet config="main"><source path="/home/toosaka/gits/ForMouse/src/main/shaders"/></dataSet><dataSet config="debug"><source path="/home/toosaka/gits/ForMouse/build-types/debug/shaders"/></dataSet></merger>
+<merger version="3"><dataSet config="main"><source path="H:\android\gitget\ForMouse\src\main\shaders"/></dataSet><dataSet config="debug"><source path="H:\android\gitget\ForMouse\build-types\debug\shaders"/></dataSet></merger>
