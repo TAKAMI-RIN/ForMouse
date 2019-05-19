@@ -10,6 +10,7 @@ public class ToastUtil {
     private static Handler handler = new Handler(Looper.getMainLooper());  
     private static Toast toast = null; 
     private static Object synObj = new Object(); 
+    
     public static void showMessage(final Context act, final String msg) {  
         showMessage(act, msg, Toast.LENGTH_SHORT);  
     } 
