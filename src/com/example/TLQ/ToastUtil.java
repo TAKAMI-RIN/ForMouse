@@ -1,23 +1,19 @@
 package com.example.TLQ;
 //Author:TOOSAKA
 //toast 工具类，用于优化toast显示
-    import android.content.Context;  
-    import android.os.Handler;  
-    import android.os.Looper;  
-    import android.widget.Toast;
+import android.content.Context;  
+import android.os.Handler;  
+import android.os.Looper;  
+import android.widget.Toast;
 
-    public class ToastUtil {  
-  
+public class ToastUtil {    
     private static Handler handler = new Handler(Looper.getMainLooper());  
-  
-    private static Toast toast = null;  
-      
-    private static Object synObj = new Object();  
-  
+    private static Toast toast = null; 
+    private static Object synObj = new Object(); 
     public static void showMessage(final Context act, final String msg) {  
         showMessage(act, msg, Toast.LENGTH_SHORT);  
-    }  
-  
+    } 
+    
     public static void showMessage(final Context act, final int msg) {  
         showMessage(act, msg, Toast.LENGTH_SHORT);  
     }  
@@ -44,7 +40,6 @@ package com.example.TLQ;
             }  
         }).start();  
     }  
-  
   
     public static void showMessage(final Context act, final int msg,  
             final int len) {  
